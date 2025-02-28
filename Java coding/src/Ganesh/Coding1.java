@@ -5,7 +5,7 @@ public class Coding1 {
 		boolean status1;
 		status1=true;
 		boolean status2=false; //Second method
-        char G='M';
+        final char G='M';
 		byte dob=24;
 		int m=8;
 		float marks=(float) 70.03;

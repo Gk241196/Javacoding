@@ -11,7 +11,7 @@ public class Collections
 			// TODO Auto-generated method stub
 			ArrayList obj=new ArrayList();
 			obj.add("Ganesh");
-			obj.add("Moni");
+			obj.add("automation");
 			obj.add("kumar");
 			
 		   int arrsize=obj.size();
